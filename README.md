@@ -35,7 +35,7 @@ Gamma-Gamma model for expected monetary value
 ##  Dataset Summary
 
 - **Source**: [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
-
+- Change directory of the file as per required in the Jupyter Notebook
 ---
 
 ##  Project Goals
