@@ -22,7 +22,7 @@ This project focuses on **predicting Customer Lifetime Value (CLV)** using a rea
 
 ##  Dataset Summary
 
-- **Source**:[UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+- **Source**: [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 ---
 
