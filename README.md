@@ -1,6 +1,18 @@
 #  Customer Lifetime Value (CLV) Prediction & Analysis
 
-This project focuses on **predicting Customer Lifetime Value (CLV)** using a real-world transactional dataset from a UK-based online retail store. The data spans from **December 2010 to December 2011** and includes purchases made by both **wholesalers and individual customers**.
+This project focuses on predicting Customer Lifetime Value (CLV) using a real-world transactional dataset from a UK-based online retail store. The data spans from December 2010 to December 2011 and includes purchases made by both wholesalers and individual customers.
+
+To simplify the analysis and focus on customer-driven behavior, returns, cancellations, and platform-related fees (such as Amazon charges) were excluded. This assumes that such transactions are either infrequent or not essential for high-level customer valuation.
+
+Postage charges were retained in the dataset, as they reflect the actual amount paid by the customer. The goal is to model total customer spend, rather than just product revenue.
+
+Techniques used include:
+
+RFM segmentation
+
+BG/NBD model for purchase frequency
+
+Gamma-Gamma model for expected monetary value
 
 ---
 
